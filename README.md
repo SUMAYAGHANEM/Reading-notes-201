@@ -7,7 +7,7 @@ starting from 13/3/2021
 
 | reading name  | Url |
 | ------------- | ------------- |
-|1              | Content Cell  |
+|Introductory HTML and JavaScript| https://github.com/SUMAYAGHANEM/Reading-notes-201/blob/main/class-01.md|
 |2              | Content Cell  |
 |3              | Content Cell  |
 |4              | Content Cell  |
