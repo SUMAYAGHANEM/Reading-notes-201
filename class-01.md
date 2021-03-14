@@ -29,6 +29,22 @@ HTML is the standard markup language for creating Web pages describes the struct
  It is important that no two elements on the same page have the same value for their id attributes <P>
  **Class Attribute** Every HTML element can also carry a class attribute , you will want a way to identify several elements as being different from the other elements on the page.<P>
  **Block Elements** Some elements will always appear to start on a new line in the browser window. These are known as block level elements.<P>
+ 
+**<div>**: The <div> element allows you to group a set of elements together in one block-level box.<P>
+ <iframe> : An iframe is like a little window that has been cut into your page — and in that window you can see another page.<P>
+  
+  # HTML5 Layout <P>
+ 
+ ![layout](https://data-flair.training/blogs/wp-content/uploads/sites/2/2020/07/html-layout-normal-img-2.jpg)<P>
+ 
+ # Process & Design<P>
+ *Who is the Site For?* Every website should be designed for thetarget audience—not just for yourself or the site owner.<P>
+  It is therefore very important to understand who your target audience is.<P>
+  *Why People VisitYOUR Website* you need to consider why they are coming. While some people will simply chance across your website, most will visit for a specific reason.<P>
+ *How Often People Will Visit Your Site* 
+ *site map* 
+ ![map](https://cdn.searchenginejournal.com/wp-content/uploads/2019/09/7-reasons-why-an-html-sitemap-is-a-must-have.png)
+  
   
   
  
