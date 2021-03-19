@@ -13,7 +13,7 @@ starting from 13/3/2021
 |functions and styling in css|https://github.com/SUMAYAGHANEM/Reading-notes-201/blob/main/class-04.md|
 |texts and images | https://github.com/SUMAYAGHANEM/Reading-notes-201/blob/main/class-05.md |
 |object literal and DOM|https://github.com/SUMAYAGHANEM/Reading-notes-201/blob/main/class-06.md|
-|7              | Content Cell  |
+|Object-Oriented Programming, HTML Tables |https://github.com/SUMAYAGHANEM/Reading-notes-201/blob/main/class-07.md|
 |8              | Content Cell  |
 |9              | Content Cell  |
 |10             | Content Cell  |
