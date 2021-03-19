@@ -12,7 +12,7 @@ starting from 13/3/2021
 |HTML Lists, Control Flow with JS, and the CSS Box Model |https://github.com/SUMAYAGHANEM/Reading-notes-201/blob/main/class-03.md|
 |functions and styling in css|https://github.com/SUMAYAGHANEM/Reading-notes-201/blob/main/class-04.md|
 |texts and images | https://github.com/SUMAYAGHANEM/Reading-notes-201/blob/main/class-05.md |
-|6              | Content Cell  |
+|object literal and DOM|https://github.com/SUMAYAGHANEM/Reading-notes-201/blob/main/class-06.md|
 |7              | Content Cell  |
 |8              | Content Cell  |
 |9              | Content Cell  |
