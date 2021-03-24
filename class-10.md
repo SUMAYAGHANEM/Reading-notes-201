@@ -16,3 +16,17 @@ Last In, First out, meaning that the most recently added element is the first on
  * push 
  *  pop
  *  ![s](https://i.stack.imgur.com/xAQPR.png)
+
+**UNDERSTANDING 
+SCOPE**
+In the interpreter, each execution context has its own va ri ables object. 
+It holds the variables, functions, and parameters available within it. 
+Each execution context can also access its parent's v a ri ables object
+
+**UNDERSTANDING ERRORS**
+If a JavaScript statement generates an error, then it throws an exception. 
+At that point, the interpreter stops and looks for exception-handl ing code
+
+**ERROR OBJECTS**
+Error objects can help you find where your mistakes are 
+and browsers have tools to help you read them. 
