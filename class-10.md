@@ -30,3 +30,27 @@ At that point, the interpreter stops and looks for exception-handl ing code
 **ERROR OBJECTS**
 Error objects can help you find where your mistakes are 
 and browsers have tools to help you read them. 
+**built-in error**
+* Error 
+* Syntax Error 
+* DESCRIPTION 
+* Generic error -
+* TypeError 
+* Range Error 
+* URI Error 
+* EvalEr r or 
+
+**HOW TO DEAL WITH ERRORS**
+1.DEBUG THE SCRIPT TO FIX ERRORS : you will need to 
+debug the code, track down the source of the error, 
+and fix it. 
+2.HANDLE ERRORS GRACEFULLY 
+You can handle errors gracefully using try, catch, 
+throw, and f i na 1 ly statements.
+**A DEBUGGING 
+WORKFLOW**
+1. Look at the error message, it tells you
+2. Use breakpoints where things are going wrong. 
+3.  Check how far the script is running. 
+4.  
+5. 
