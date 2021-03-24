@@ -16,7 +16,7 @@ starting from 13/3/2021
 |Object-Oriented Programming, HTML Tables |https://github.com/SUMAYAGHANEM/Reading-notes-201/blob/main/class-07.md|
 |css layout |https://github.com/SUMAYAGHANEM/Reading-notes-201/blob/main/class-08.md|
 |forms |https://github.com/SUMAYAGHANEM/Reading-notes-201/blob/main/class-09.md|
-|10             | Content Cell  |
+|debugging |https://github.com/SUMAYAGHANEM/Reading-notes-201/blob/main/class-10.md|
 |11             | Content Cell  |
 |12             | Content Cell  |
 |13             | Content Cell  |
