@@ -22,6 +22,52 @@ Setting up
 
 ![sdfdsf](https://res.cloudinary.com/practicaldev/image/fetch/s--04Uz3pU---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pdg4eqlpz1hjjfwcdsxj.png)
 
+chart code in js :
+
+![scscsdgg](https://i.stack.imgur.com/TMX9U.png)
+
+# Applying styles and colors
+
+ we will explore the canvas options we have at our disposal to make our drawings a little more attractive
+ **Colors :**
+ there are two important properties we can use: 
+ * fillStyle :Sets the style used when filling shapes.
+ * strokeStyle : Sets the style for shapes' outlines.
+  
+  example code :
+  function draw() {
+  var ctx = document.getElementById('canvas').getContext('2d');
+  for (var i = 0; i < 6; i++) {
+    for (var j = 0; j < 6; j++) {
+      ctx.fillStyle = 'rgb(' + Math.floor(255 - 42.5 * i) + ', ' +
+                       Math.floor(255 - 42.5 * j) + ', 0)';
+      ctx.fillRect(j * 25, i * 25, 25, 25);
+    }
+  }
+}
+
+-**Transparency**
+ This is done by either setting the globalAlpha property or by assigning a semi-transparent color to the stroke and/or fill style.
+ 
+ **Line styles**
+There are several properties which allow us to style lines.
+
+lineWidth = value
+Sets the width of lines drawn in the future.
+lineCap = type
+Sets the appearance of the ends of lines.
+lineJoin = type
+Sets the appearance of the "corners" where lines meet.
+miterLimit = value
+Establishes a limit on the miter when two lines join at a sharp angle, to let you control how thick the junction becomes.
+getLineDash()
+Returns the current line dash pattern array containing an even number of non-negative numbers.
+setLineDash(segments)
+Sets the current line dash pattern.
+lineDashOffset = value
+Specifies where to start a dash array on a line.
+
+![fdgg](https://mdn.mozillademos.org/files/239/Canvas_linewidth.png)
 
 
 
