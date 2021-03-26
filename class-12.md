@@ -15,6 +15,13 @@ Setting up
 * Next we need to create the data.
 ![fdgdfg](https://miro.medium.com/max/679/1*c9QQgpC9YnznJWFOjWF7tA.png)
 
+**Drawing a bar chart**
+* we add the canvas element
+* we retrieve the element and create the graph
+* we add in the bar chart’s data
+
+![sdfdsf](https://res.cloudinary.com/practicaldev/image/fetch/s--04Uz3pU---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pdg4eqlpz1hjjfwcdsxj.png)
+
 
 
 
