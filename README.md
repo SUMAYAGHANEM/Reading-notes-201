@@ -19,7 +19,7 @@ starting from 13/3/2021
 |debugging |https://github.com/SUMAYAGHANEM/Reading-notes-201/blob/main/class-10.md|
 |images css         | https://github.com/SUMAYAGHANEM/Reading-notes-201/blob/main/class-11.md |
 |charts and canvas           | https://github.com/SUMAYAGHANEM/Reading-notes-201/blob/main/class-12.md  |
-|13             | Content Cell  |
+|local storages  |https://github.com/SUMAYAGHANEM/Reading-notes-201/blob/main/class-13.md|
 |14             | Content Cell  |
 |15             | Content Cell  |
 
